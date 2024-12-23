@@ -20,14 +20,14 @@ Download your system specific zip [here](https://github.com/JAKARobotics/sdk-csh
 
 ## Feedback
 
-Our Software Development Kit is still in its early and we are open to any improvements. Please also let us know of any new features you need that the sdk currently does not support.
+Our Software Development Kit is still in its early stages and we are open to any improvements. Please also let us know of any new features you need that the sdk currently does not support.
 
 
 ## FAQ
 
 #### I want "x" new feature.
 
-Please let us know in the [wishlist](https://github.com/JAKARobotics/jakasdk-csharp/issues/1) issue thread.
+Please let us know in the [wishlist](https://github.com/JAKARobotics/jakasdk-python/issues/1) issue thread.
 
 
 ....
