@@ -3,6 +3,10 @@
 #### Software Development Kit
 
 
+## Windows Dependancy
+
+In order to use our sdk, you will need to install the [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-us/download/details.aspx?id=40784).
+
 
 ## Documentation
 
