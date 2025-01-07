@@ -15,7 +15,7 @@ Download your system specific zip [here](https://github.com/JAKARobotics/sdk-csh
 
 #### Pycharm
 
-...
+Refer to our [documentation hub](https://www.jaka.com/docs/en/) for installation instructions.
 
 
 ## Feedback
